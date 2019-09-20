@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item_toast" android:title="MyToast"></item>
+    <item android:id="@+id/item_Act" android:title="MyActivity"></item>
+    <item android:id="@+id/item_search" android:title="Search"
+        android:icon="@drawable/myicon" app:showAsAction="always"></item>
+
+</menu>
